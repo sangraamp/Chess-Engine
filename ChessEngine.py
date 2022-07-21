@@ -3,9 +3,6 @@ This class is responsible for storing all the info about the current state of a 
 """
 
 
-from shutil import move
-
-
 class GameState():
     def __init__(self):
         """
